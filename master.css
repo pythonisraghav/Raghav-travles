@@ -1,0 +1,38 @@
+.Submit{
+  background-color: #285C66;
+  border-color: white;
+  border-style: solid;
+  color: white;
+  border-radius: 3px;
+  width: 90px;
+  height: 35px;
+
+}
+
+#phoneno{
+  border-color: white;
+  border-radius: 3px;
+  border-style: solid;
+}
+
+#head1{
+  font-family: Quicksand;
+
+}
+
+#email{
+  border-color: white;
+  border-radius: 3px;
+  border-style: solid;
+}
+
+#name{
+  border-color: white;
+  border-radius: 3px;
+  border-style: solid;
+}
+
+#calender{
+  border-radius: 3px;
+  border: 0;
+}
